@@ -13,4 +13,8 @@ A Python scraper that extracts book data from books.toscrape.com and converts it
 2. `python shopify_scraper_pro.py`
 3. Import the generated CSV to Shopify
 
+### Sample Output:
+Download here: 'shopify_books.xlsx' and 'shopify_books.csv'
+20 books scraped from books.toscrape.com
+
 Demo Site Used: books.toscrape.com
